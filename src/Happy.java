@@ -5,4 +5,9 @@ public class Happy {
 		System.out.println("We are happy now");
 		
 	}
+	
+	public static void yell() {
+		System.out.println("WE ARE VERY HAPPY");
+		
+	}
 }
