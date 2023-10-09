@@ -5,5 +5,9 @@ public class Sad {
 		System.out.println("We are all sad");
 
 	}
+	public static void sad2() {
+		System.out.println("We are all sad: branch");
+
+	}
 
 }
