@@ -6,5 +6,6 @@ public class Driver {
 		Hungry.hungry();
 		Sad.sad();
 		Happy.speak();
+		Hungry.burgerTime();
 	}
 }
